@@ -1,4 +1,4 @@
-# code-switching-tr-en
+# Detecting Code-Switching (Turkish-English)
 
 We provide the Turkish-English code-switching corpus created in the **Detecting Code-Switching between Turkish-English Language Pair** paper. 
 
