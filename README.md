@@ -1,6 +1,6 @@
 # Detecting Code-Switching (Turkish-English)
 
-We provide the Turkish-English code-switching corpus created in the **Detecting Code-Switching between Turkish-English Language Pair** paper. 
+We provide the Turkish-English code-switching corpus created in the [**Detecting Code-Switching between Turkish-English Language Pair**](https://aclanthology.org/W18-6115/) paper. 
 
 - The original sentences 
 - Tokenized sentences with language tags (t for Turkish, e for English)
